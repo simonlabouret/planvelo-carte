@@ -488,7 +488,13 @@
     },
     {
       "type": "Feature",
-      "properties": {},
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Accès Maison de la Radio",
+        "description": "Capacité très limitée"
+      },
       "geometry": {
         "type": "Point",
         "coordinates": [
